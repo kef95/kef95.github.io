@@ -1,14 +1,14 @@
 Package: com.kef.mailconfirm
-Version: 0.0.1-5+debug
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Kef
-Installed-Size: 124
+Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debs/mailconfirm/com.kef.mailconfirm_0.0.1-5+debug_iphoneos-arm.deb
-Size: 7182
-MD5sum: 6662f6653ffca3c203d8d51d2935186a
-SHA1: 444abf35bd7a224d89d5675ff27b5522c3e0c86a
-SHA256: 8131bc5e95a54eff9a00b349b58114c847e2cff1244ade1f5ffe0b5fd911b20d
+Filename: ./debs/mailconfirm/com.kef.mailconfirm_1.0-1+debug_iphoneos-arm.deb
+Size: 4730
+MD5sum: 87f7fe08831d74daeda66ab14adcc35f
+SHA1: 8e568e55a14ac451b9ba3cd915c9f64e3f52766b
+SHA256: 327b8e48252e2c9710f6a02271815d5459f5c455890fb77e18b0c094af39a7df
 Section: Tweaks
 Description: A tweak that asks for confirmation whenever you send an email
 Author: Kef
