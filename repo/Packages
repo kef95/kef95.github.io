@@ -1,3 +1,19 @@
+Package: com.kef.darkkeyboard
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kef
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/darkkeyboard/com.kef.darkkeyboard_1.0-1+debug_iphoneos-arm.deb
+Size: 2222
+MD5sum: 991da31377e681041aec16fa4c8f8951
+SHA1: f1ff1213ed7f021e5d83ad1e4a4670ac8f5c40a7
+SHA256: b73a783a2a965449b1ea3dd20225e72bb8d1b8edfcca1b558d1c61a4473021a0
+Section: Tweaks
+Description: Force dark keyboard on iOS
+Author: Kef
+Name: DarkKeyboard
+
 Package: com.kef.mailconfirm
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
