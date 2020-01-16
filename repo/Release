@@ -1,0 +1,11 @@
+Origin: Kef's repo
+Label: Kef's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kef's Cydia Repository
+MD5Sum:
+ f8fc09125977d224998c37f4648acbe2 512 Packages
+ 6f92e85117f07c8fcbd2c8ab5a0dfaa6 396 Packages.bz2
