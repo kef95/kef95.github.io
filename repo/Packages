@@ -15,16 +15,16 @@ Author: Kef
 Name: DarkKeyboard
 
 Package: com.kef.hidelockglyph
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Kef
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/hidelockglyph/com.kef.hidelockglyph_1.0_iphoneos-arm.deb
-Size: 2552
-MD5sum: 473a3e15e91c1fbd09e79d0f7beb5cb5
-SHA1: c004285e4c37c2763e32d401e23b9e3b098eadb7
-SHA256: 4132345d8393fa5ee101bcda3c944fcfe2cc036c395c247a3ad3514a1e63a8c7
+Filename: ./debs/hidelockglyph/com.kef.hidelockglyph_1.0.1_iphoneos-arm.deb
+Size: 2612
+MD5sum: 488facd0693df9c0d54c7edf067b40dc
+SHA1: 9994dea5f015f7484fa5ff98cccbb988b7018f11
+SHA256: c1a74f584da6fd83cd38aa278eadd61d15e1a7c396387be18da4a69126b09798
 Section: Tweaks
 Description: Hides lock icon on lockscreen.
 Author: Kef
