@@ -14,6 +14,22 @@ Description: Force dark keyboard on iOS
 Author: Kef
 Name: DarkKeyboard
 
+Package: com.kef.hidelockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kef
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/hidelockglyph/com.kef.hidelockglyph_1.0_iphoneos-arm.deb
+Size: 2552
+MD5sum: 473a3e15e91c1fbd09e79d0f7beb5cb5
+SHA1: c004285e4c37c2763e32d401e23b9e3b098eadb7
+SHA256: 4132345d8393fa5ee101bcda3c944fcfe2cc036c395c247a3ad3514a1e63a8c7
+Section: Tweaks
+Description: Hides lock icon on lockscreen.
+Author: Kef
+Name: HideLockGlyph
+
 Package: com.kef.mailconfirm
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
