@@ -46,3 +46,19 @@ Description: A tweak that asks for confirmation whenever you send an email.
 Author: Kef
 Name: MailConfirm
 
+Package: com.kef.nomorewiggling
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kef
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/nomorewiggling/com.kef.nomorewiggling_1.0_iphoneos-arm.deb
+Size: 6112
+MD5sum: c7e14d2564b37f517deb5df1fac8d497
+SHA1: d77e4b6883ab9b48e22f96ab8d553c2949048508
+SHA256: f4d150040c1dc874467dd7289d997c4315fc2f182c7418af5433094163a5baec
+Section: Tweaks
+Description: Disables wiggling when you enter editing mode!
+Author: Kef
+Name: NoMoreWiggling
+
