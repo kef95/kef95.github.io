@@ -1,3 +1,19 @@
+Package: com.kef.betterfolders
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Kef
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/betterfolders/com.kef.betterfolders_1.0.0_iphoneos-arm.deb
+Size: 6876
+MD5sum: fb07deecc1ff12f07f4dc35e78d62808
+SHA1: 7e5255544f1aae9eeac447810c8458906e506390
+SHA256: 550e9a666886d3e55357b7025488b1a54bd2bcd0c690d898f53c0d2025ec80c7
+Section: Tweaks
+Description: A tweak that allows you to customize your folders!
+Author: Kef
+Name: BetterFolders
+
 Package: com.kef.darkkeyboard
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
