@@ -37,12 +37,12 @@ Maintainer: Kef
 Installed-Size: 216
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: ./debs/mailconfirm/com.kef.mailconfirm_1.0.2_iphoneos-arm.deb
-Size: 7466
-MD5sum: 4a045a3b3201aabebc8236ddc35326ae
-SHA1: 08661a6e9b09ac04a6c302122f8be6ddae60eaf7
-SHA256: f1548fd9920c4476cecf47824341e02c05c71d77c2808b135fcb2844b37f777b
+Size: 7486
+MD5sum: b88f270c7ed8e39d866b492b009e9762
+SHA1: ce11250ce66e8112e73ffb485da0af2f64654588
+SHA256: 2e21c715ad87b0205f881c71075397b78cdd3d28ee67ae7488fc7418b2cd7e1a
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Pops up a confirmation dialogue before you send emails.
 Author: Kef
 Name: MailConfirm
 
