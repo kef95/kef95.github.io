@@ -47,16 +47,16 @@ Author: Kef
 Name: MailConfirm
 
 Package: com.kef.mappa
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Kef
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: ./debs/mappa/com.kef.mappa_1.0.2_iphoneos-arm.deb
-Size: 6970
-MD5sum: 14e0f75a8d92d2ea84e5ee3071c630b9
-SHA1: e5518f6afee6bf355e2f887689d4a27be1b0393e
-SHA256: ef2f5140201c19f7db261356865b1968f50ee303a7337e69e7aa7f538962a3bc
+Filename: ./debs/mappa/com.kef.mappa_1.0.3_iphoneos-arm.deb
+Size: 6906
+MD5sum: 4cb0ecbdfda021d061de22e46e996209
+SHA1: a23ea9bced81919c694d84fe2d331f58aa137821
+SHA256: 22e6f3e2a77119cad31e8338f32bae7e09b911e76df008399967eefaf57a5eb7
 Section: Tweaks
 Description: A tweak that allows you to customize the number of rows and icons in your folders!
 Author: Kef
