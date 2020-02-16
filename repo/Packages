@@ -31,16 +31,16 @@ Author: Kef
 Name: HideLockGlyph
 
 Package: com.kef.mailconfirm
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Kef
-Installed-Size: 216
+Installed-Size: 312
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/mailconfirm/com.kef.mailconfirm_1.0.2_iphoneos-arm.deb
-Size: 7486
-MD5sum: b88f270c7ed8e39d866b492b009e9762
-SHA1: ce11250ce66e8112e73ffb485da0af2f64654588
-SHA256: 2e21c715ad87b0205f881c71075397b78cdd3d28ee67ae7488fc7418b2cd7e1a
+Filename: ./debs/mailconfirm/com.kef.mailconfirm_1.0.3_iphoneos-arm.deb
+Size: 10352
+MD5sum: b944730b57eab5631fe6f08b14d55632
+SHA1: dda5812630304fe2d27db7fba0cd68e897fddfaf
+SHA256: c60b4fed15ee036a0b8e1e1393b5d1e43d031d241901a5163bac6c0e95ebf0ad
 Section: Tweaks
 Description: Pops up a confirmation dialogue before you send emails.
 Author: Kef
